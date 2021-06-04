@@ -1,0 +1,15 @@
+% This function loads the hyperparameter set from CV for a scpecified dataset.
+% Please refer to the tuning  range and other tuning details in the Supp.
+% Materials.
+
+function [K, k_0, k_1, m, s, a_0 , b_0] = load_tuned_params(dataset, side_info)
+    
+    if strcmp(dataset, 'INSECT') 
+    dataset = upper(dataset);
+    dim  = 500;
+    INSECT  = [0.1, 10, 5*dim, 10, 3];
+    CUB_DNA  = [1, 10, 50*dim, 3, 3];
+    eval(['data = ', dataset,';']);
+    data = num2cell(data);
+    [k_0, k_1, m, s, K] = deal(data{:});
+end
