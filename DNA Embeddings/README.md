@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-This is a ReadMe file for running the Jupyter Notebooks created for DNA-Embeddings
+This is the repo for running the Jupyter Notebooks created for learning DNA-Embeddings
 
 ## Prerequisites
 
