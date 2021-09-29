@@ -21,6 +21,6 @@ If you want to perform hyperparameter tuning, please comment out relevant sectio
 You may alter the side information source for CUB data.
  
  ## News
- Python code is coming soon, sray tuned!!
+ Python code is coming soon, stay tuned!!
  
- The insect images will be uploaded soon, as well.
+ The insect images will be uploaded to the repository, as well.
