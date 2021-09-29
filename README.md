@@ -14,4 +14,7 @@ Fine-grained zero-shot learning task requires some form of side-information totr
 
 ## Notes
 Please see the ReadMe files inside of the relevant folders, `BZSL` and `DNA embeddings`, for the instructions to reproduce results and run experiments.
+  
+## Contact
+Feel free to drop me an email if you have any questions: s.badirli@gmail.com
 
