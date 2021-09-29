@@ -10,7 +10,7 @@ The code was implemented in Matlab 2020. Any version greater 2016 should be fine
 
 ## Data
 
-You may download the data from this anonymous [link](https://www.dropbox.com/sh/gt6tkech0nvftk5/AADOUJc_Bty3sqOsqWHxhmULa?dl=0). Please put dataset into `data` folder and move the `data` folder into the same directory which contains the folders for codes.
+You may download the data from this Dropbox [link](https://www.dropbox.com/sh/gt6tkech0nvftk5/AADOUJc_Bty3sqOsqWHxhmULa?dl=0). Please put dataset into `data` folder and move the `data` folder into the same directory which contains the folders for codes.
 
 ## Experiments
 
@@ -20,3 +20,7 @@ If you want to perform hyperparameter tuning, please comment out relevant sectio
 
 You may alter the side information source for CUB data.
  
+ ## News
+ Python code is coming soon, sray tuned!!
+ 
+ The insect images will be uploaded soon, as well.
