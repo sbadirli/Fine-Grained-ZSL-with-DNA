@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-This is a ReadMe file for running the BZSL model and reproduce the results presented in the paper.
+This is the repo for running the Bayesian ZSL (BZSL) model and reproduce the results presented in the paper.
 
 ## Prerequisites
 
