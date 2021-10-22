@@ -18,7 +18,7 @@ Fine-grained zero-shot learning task requires some form of side-information totr
 </p>
 <p align="justify">
   
-The raw (RGB) INSECT images can be obtained from this [link](https://indiana-my.sharepoint.com/:f:/g/personal/sbadirli_iu_edu/Ek2KDBxTndlFl_7XblTL-8QBZ6b0C0izgDJIBJQlWtiRKA?e=bCfCMH). Each folder inside represents INSECT species with its scientific names. For the processed data to run the code, please see the relevant folders in this directory.
+The raw (RGB) INSECT images (2.5GB) can be obtained from this [One Drive](https://indiana-my.sharepoint.com/:f:/g/personal/sbadirli_iu_edu/Ek2KDBxTndlFl_7XblTL-8QBZ6b0C0izgDJIBJQlWtiRKA?e=bCfCMH). Each folder inside represents INSECT species with its scientific names. For the processed data to run the code, please see the relevant folders.
   
 ## Notes
 Please see the ReadMe files inside of the relevant folders -- `BZSL-Python` (for Python code for Bayesian classifier), `BZSL` (for Matlab code for Bayesian classifier), and `DNA embeddings`, for the instructions to reproduce results and run experiments.
