@@ -76,7 +76,7 @@ model_version = 'unconstrained'; % DO NOT change, please!
 
 % You may specify side information source below from this set: {'visual', 'w2v', 'dna'}.
 % For INSECT we only have 'dna' but for CUB data we have all 3 sources.
-side_info = 'dna'; % one of {'visual', 'w2v', 'dna'}
+side_info = 'dna'; % one of {'original', 'w2v', 'dna'}
 pca_dim = 500;
 
 [att, K, k_0, k_1, m, s] = load_tuned_params(fname2, dataset, side_info);
