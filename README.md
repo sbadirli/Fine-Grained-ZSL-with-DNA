@@ -13,6 +13,10 @@ Fine-grained zero-shot learning task requires some form of side-information totr
 <p align="justify">
   
 ## INSECT Images 
+<p align="center">
+<img width="1000" height="200" src="NIPS_image_samples_final.png">
+</p>
+<p align="justify">
 The raw (RGB) INSECT images can be obtained from this [link](https://indiana-my.sharepoint.com/:f:/g/personal/sbadirli_iu_edu/Ek2KDBxTndlFl_7XblTL-8QBZ6b0C0izgDJIBJQlWtiRKA?e=bCfCMH). Each folder inside represents INSECT species with its scientific names. For the processed data to run the code, please see the relevant folders in this directory.
   
 ## Notes
