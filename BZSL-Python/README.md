@@ -20,7 +20,7 @@ To run the code, You may create a conda environment (assuming you already have m
 conda create --name bzsl --file requirements.txt
 ```
 
-If you have already Python installed, you may just go ahead and manually install numpy nad scipy without creating virtual environment by `pip install numpy=1.19.2`.
+If you already have  Python installed, you may just go ahead and manually install numpy nad scipy without creating virtual environment by `pip install numpy=1.19.2`.
 
 ## Data
 
