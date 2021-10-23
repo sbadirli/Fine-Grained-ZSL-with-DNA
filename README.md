@@ -15,7 +15,7 @@ Fine-grained zero-shot learning task requires some form of side-information totr
 ## INSECT Images 
 <p align="center">
 <img width="600" src="NIPS_image_samples_final.png">
-<img width="200" src="split_table.jpg">
+<img width="200" src="split_table.JPG">
 </p>
 <p align="justify">
   
@@ -29,13 +29,13 @@ Re-runnignthe code should give you the results as shown below.
   
 ### INSECT
 <p align="center">
-<img width="600" src="INSECT_results.jpg">
+<img width="600" src="INSECT_results.JPG">
 </p>
 <p align="justify">
   
 ### CUB
 <p align="center">
-<img width="600" src="CUB_results.jpg">
+<img width="600" src="CUB_results.JPG">
 </p>
 <p align="justify">
   
