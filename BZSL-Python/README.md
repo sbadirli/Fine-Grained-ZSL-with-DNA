@@ -24,14 +24,14 @@ If you already have  Python installed, you may just go ahead and manually instal
 
 ## Data
 
-You may download the data from [Dropbox](https://www.dropbox.com/sh/gt6tkech0nvftk5/AADOUJc_Bty3sqOsqWHxhmULa?dl=0). Please put dataset into `data` folder and move the `data` folder into the same directory which contains the folders for codes. Note that in att_splits.mat from `INSECT` folder has 4 new items different than standard ZSL benchmark datasets. PLease see the associated descriptions below:
+You may download the data from [Dropbox](https://www.dropbox.com/sh/gt6tkech0nvftk5/AADOUJc_Bty3sqOsqWHxhmULa?dl=0). Please put dataset into `data` folder and move the `data` folder into the same directory which contains the folders for codes. Note that in att_splits.mat from `INSECT` folder there are 4 new items that are different than standard ZSL benchmark datasets. Please see the associated descriptions below:
 
-* `bold_ids`: You can use this number to search that particular instancein BOLD system to get more info
+* `bold_ids`: You can use this number to search that particular instance in BOLD database to get more info
 * `ids`: Image name/id
 * `species`: The scientific name of that specimen
-* `nucleotides`: DNA barcode of the specimen
-* `nucleotides_aligned`: Aligned (by Clustal Omega software) version of the raw DNA barcode
-* `att`: Attributes but derived from DNA barcodes as explained in the paper
+* `nucleotides`: DNA barcode (COI gene sequence) of the specimen
+* `nucleotides_aligned`: Aligned (by Clustal Omega software) version of the DNA barcode
+* `att`: Attributes that are derived from DNA barcodes as explained in the paper
  
 ## Experiments
 
