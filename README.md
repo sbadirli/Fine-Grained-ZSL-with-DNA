@@ -15,6 +15,7 @@ Fine-grained zero-shot learning task requires some form of side-information totr
 ## INSECT Images 
 <p align="center">
 <img width="600" src="NIPS_image_samples_final.png">
+<img width="200" src="split_table.jpg">
 </p>
 <p align="justify">
   
@@ -22,6 +23,21 @@ The raw (RGB) INSECT images (2.5GB) can be obtained from this [One Drive](https:
   
 ## Notes
 Please check the `BZSL-Python` (Python code for Bayesian classifier) and `BZSL` (Matlab code for Bayesian classifier) to run experiments and reproduce the results from the paper. To check the CNN model for DNA embeddings, see  `DNA embeddings`.
+  
+## Results
+Re-runnignthe code should give you the results as shown below.
+  
+### INSECT
+<p align="center">
+<img width="600" src="INSECT_results.jpg">
+</p>
+<p align="justify">
+  
+### CUB
+<p align="center">
+<img width="600" src="CUB_results.jpg">
+</p>
+<p align="justify">
   
 ## Contact
 Feel free to drop me an email if you have any questions: s.badirli@gmail.com
