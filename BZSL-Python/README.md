@@ -30,7 +30,7 @@ You may download the data from [Dropbox](https://www.dropbox.com/sh/gt6tkech0nvf
 * `ids`: Image name/id
 * `species`: The scientific name of that specimen
 * `nucleotides`: DNA barcode (COI gene sequence) of the specimen
-* `nucleotides_aligned`: Aligned (by Clustal Omega software) version of the DNA barcode
+* `nucleotides_aligned`: Aligned DNA sequences (see Section 3 in the paper for details)
 * `att`: Attributes that are derived from DNA barcodes as explained in the paper
  
 ## Experiments
