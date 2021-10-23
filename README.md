@@ -15,7 +15,7 @@ Fine-grained zero-shot learning task requires some form of side-information totr
 ## INSECT Images 
 <p float="left">
 <img width="600" src="NIPS_image_samples_final.png">
-<img width="200" src="split_table.JPG">
+<img width="200" src="split_ table.JPG">
 </p>
   
 The raw (RGB) INSECT images (2.5GB) can be obtained from this [One Drive](https://indiana-my.sharepoint.com/:f:/g/personal/sbadirli_iu_edu/Ek2KDBxTndlFl_7XblTL-8QBZ6b0C0izgDJIBJQlWtiRKA?e=bCfCMH). Each folder inside represents INSECT species with its scientific names. For the processed data to run the code, see the relevant folders.
@@ -34,7 +34,7 @@ Re-runnignthe code should give you the results as shown below.
   
 ### CUB
 <p align="center">
-<img width="800" src="CUB_results.JPG">
+<img width="900" src="CUB_results.JPG">
 </p>
 <p align="justify">
   
