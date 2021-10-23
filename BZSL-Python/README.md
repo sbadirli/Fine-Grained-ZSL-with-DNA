@@ -44,7 +44,7 @@ Then navigate to the `BZSL-Python` folder and execute the folowing code:
 python Demo.py --dataset CUB --side_info dna
 ```
 
-Main options for input arguments  are listed below (for the detailed lsit please check the code):
+Main options for input arguments  are listed below (for the detailed list please check the code):
 ```
 datatset: INSECT, CUB
 side_info: original, w2v, dna
