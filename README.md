@@ -15,7 +15,7 @@ Fine-grained zero-shot learning task requires some form of side-information totr
 ## INSECT Images 
 <p float="left">
 <img width="600" src="NIPS_image_samples_final.png">
-<img width="390" src="split_ table.JPG">
+<img width="350" src="split_ table.JPG">
 </p>
 <p align="justify">
   
