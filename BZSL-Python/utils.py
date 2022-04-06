@@ -41,10 +41,11 @@ class data_loader(object):
             print('Invalid side information source for INSECT data! There is only one side information source for INSECT dataset: "dna". Model will continue using DNA as side information')
 
         self.side_info = splits_mat['att']
-        if self.side_info_source=='w2v':
-            self.side_info = splits_mat['att_w2v']
-        elif self.side_info_source=='dna':
-            self.side_info = splits_mat['att_dna']
+        if self.dataset=='CUB':
+            if self.side_info_source=='w2v':
+                self.side_info = splits_mat['att_w2v']
+            else:
+                self.side_info = splits_mat['att_dna']
         
 
     def data_split(self):
